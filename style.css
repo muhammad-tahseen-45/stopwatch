@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+} 
+
+
+.container{
+    border: 10px solid white;
+     margin-top: 300px;
+     width: 900px; 
+    background-color: white;
+     box-shadow: 2px 2px 15px , inset  2px 2px 15px; 
+    border-radius : 40px 0px 40px 0px; 
+    height: 200px;
+}
+    
+
+
+
+
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} 
+
+ button{
+    margin: 15px;
+    width: 100px;
+    height: 40px;
+    text-transform: capitalize;
+    color: white;
+    background-color: brown;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 5px 5px 10px black ;
+    border: 1px solid black;
+    margin-top: px;
+}
+h1{
+    margin: 30px;
+    font-size: 40px;
+   display: inline-block;
+   margin-left: 125px;
+   text-align: center;
+}  
